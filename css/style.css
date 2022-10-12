@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+html {
+  font-size: 10px !important;
+}
+body {
+  font-family: "Roboto Slab", serif;
+}
+/* header section */
+.header-container {
+  padding: 21px !important;
+}
+.header-main {
+  margin-top: 9%;
+  display: flex;
+  flex-direction: column;
+}
+.header-main span {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2rem;
+  color: black;
+}
+.header-content {
+  display: flex;
+  width: 45%;
+  justify-content: space-between;
+}
+.header-img {
+  width: 300px;
+}
+
+.header-text h1 {
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4.6rem;
+  color: #000000;
+  margin-top: 20px;
+}
+.header-text p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+  margin-top: 20px;
+  line-height: 20px;
+}
+
+.header-imgbox {
+  margin-top: 12%;
+}
+.main-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-text-center {
+  background: #1e4681;
+  border-radius: 5px;
+  padding:2%;
+  
+}
+.main-text-center p {
+   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+.main-text-center h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2rem;
+  text-align: right;
+  color: #ffffff;
+  line-height: 26px;
+  margin-top: 20px;
+}
+/* header end */
