@@ -80,3 +80,183 @@ body {
   margin-top: 20px;
 }
 /* header end */
+/* section  main */
+.main-head { 
+ 
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height:56px;
+color: #000000; 
+
+} 
+.main-text-kurs p { 
+
+line-height: 36px;
+font-size: 24px;
+color: black;
+font-weight: 400; 
+margin: 4% 0;
+
+} 
+.main-img { 
+  margin-top: 4%;
+}
+.main-box h2 { 
+font-weight: 700;
+font-size: 25px;
+line-height: 32px;
+color: #000000;
+}
+.main-box p { 
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+color: black;
+} 
+.main-foot { 
+  align-items: center;
+}
+.about-head { 
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 56px;
+
+}
+.about-box { 
+  margin-top: 4%;
+}
+.about-box h3 { 
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 32px;
+color: #1E4681;
+}
+.about-box p { 
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px; 
+margin-top: 10px;
+}
+.list-about { 
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.list-about li { 
+  line-height: 36px;
+  font-size: 24px;
+  list-style-type: disc;
+}
+.card-wrap { 
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4%;
+  width: 100%;
+}
+.card-box { 
+  width: 399px;
+  height: 328px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+
+   
+
+}
+.card-box img { 
+  width: 100%;
+}
+.card-box h3{ 
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 22px; 
+margin-top: 10px;
+margin-left: 10px;
+
+
+}
+.card-box p { 
+  margin-top: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+margin-left: 10px;
+
+} 
+.card-wrapper { 
+   margin-top: 4%;
+  display: flex;
+  width: 64%;
+  justify-content: space-between;
+}
+.card-box:hover { 
+  transform:rotate(30deg)
+  
+}
+.kurs-foot { 
+  background: #EFEFEF;
+}
+.kurs-foot-text { 
+ 
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 56px;
+
+}
+.box-kurs { 
+
+  
+  width: 80%;
+}
+.box-kurs p {
+  line-height: 30px; 
+  font-size: 20px;
+   margin-top: 20px;
+   margin-left: 20px;
+
+}
+.kurs-main { 
+background: #FFFFFF;
+box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+margin-top: 5%;
+width: 791px;
+height: 451px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+
+}
+.kurs-eka { 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+}
+
+
+.kurs-eka p { 
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 30px;
+
+}
+.box-face { 
+   display: flex;
+   flex-direction: column;
+   justify-content: left;
+   width: 100%;
+}
+.box-face img { 
+  width: 32px;
+}
